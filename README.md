@@ -1,2 +1,0 @@
-# DB-Project
-DB Coursework
